@@ -1,0 +1,310 @@
+TSMJobBlessApp
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Info.plist SMJobBlessApp/SMJobBlessApp-Info.plist
+cCompileXIB /Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib
+cCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+cAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+cAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+cAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+cLd /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp normal x86_64
+cLd /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp normal i386
+cCreateUniversalBinary /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp normal "x86_64 i386"
+cGenerateDSYMFile /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp
+cPBXCp build/Debug/com.apple.bsd.SMJobBlessHelper build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper
+cTouch /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+cCodeSign /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F4C74A00000000000001E5
+t1358219082
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000050F4C781000000000006ECF4
+t1358219137
+s453876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ServiceManagement.framework/ServiceManagement
+c0000000050F4C782000000000000D04C
+t1358219138
+s53324
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051BEED800000000000006730
+t1371467136
+s26416
+
+N/Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib
+c0000000050586EBD000000000001020C
+t1347972797
+s66060
+
+N/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+c0000000051563D540000000000001477
+t1364606292
+s5239
+
+N/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+c0000000051563D540000000000000A13
+t1364606292
+s2579
+i<Cocoa/Cocoa.h>
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Resources/MainMenu.nib
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/Debug/com.apple.bsd.SMJobBlessHelper
+c00000000523677FD000000000000A880
+t1379301373
+s43136
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp.LinkFileList
+c00000000523677FD00000000000000ED
+t1379301373
+s237
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp.LinkFileList
+c00000000523677FD00000000000000F1
+t1379301373
+s241
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/SMJobBlessAppController.plist
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/x86_64/SMJobBlessAppController.plist
+t2
+s0
+
+N/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/x86_64/main.plist
+t2
+s0
+
+NSMJobBlessApp/SMJobBlessApp-Info.plist
+c000000005236774F0000000000000489
+t1379301199
+s1161
+
+CAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+s400994175.531280
+e400994176.396339
+r1
+xAnalyze
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Analyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m4a25887fafe6b741^239f7380afe6b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m0000000000000000^3187"Analyze SMJobBlessApp/SMJobBlessAppController.m    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/i386 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/SMJobBlessAppController.d --analyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/SMJobBlessAppController.plist36"36E83051-77D5-4150-81AC-A311866B5EC6-
+
+CAnalyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+s400994175.527256
+e400994176.257228
+r1
+xAnalyze
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Analyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m111c877fafe6b741^54e34180afe6b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m0000000000000000^3111"Analyze SMJobBlessApp/main.m    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/i386 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/main.d --analyze /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/StaticAnalyzer/normal/i386/main.plist36"25BDA0D3-3717-4AC9-81B7-CE1D48430D5C-
+
+CBuild AST from /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+r0
+
+CBuild AST from /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies297a1c7dafe6b741^6dab1d7dafe6b741^---0#1#0#--18"Check dependencies36"9A9514F4-FA41-4403-A0BE-15FB011F791C-
+
+CCodeSign /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+s400994176.937812
+e400994177.774534
+r1
+xCodeSign
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"CodeSign build/Debug/SMJobBlessApp.app8124f080afe6b741^dc47c681afe6b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/0000000000000000^684"CodeSign build/Debug/SMJobBlessApp.app    cd /Users/user/Downloads/SMJobBless    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    /usr/bin/codesign --force --sign 900fde3585385c5114adc503cfd250f03c3fbdab --requirements "=designated => anchor apple generic  and identifier \"com.apple.bsd.SMJobBlessApp\" and ((cert leaf[field.1.2.840.113635.100.6.1.9] exists) or ( certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists  and certificate leaf[subject.OU] = \"E8P47U2H32\" ))" /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app36"A6BCC644-D538-4267-95D1-38BD3076AF32-
+
+CCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400994174.441566
+e400994175.529966
+r1
+xCompileC
+xbuild/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m9e28717eafe6b741^65ab877fafe6b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m0000000000000000^2878"CompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o SMJobBlessApp/SMJobBlessAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/i386 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.d --serialize-diagnostics /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.dia -c /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessAppController.o36"CABD16B1-06FF-4E93-BC18-D6346FCBE8FF-
+
+CCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400994174.441148
+e400994175.508047
+r1
+xCompileC
+xbuild/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m111a717eafe6b741^501a827fafe6b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m0000000000000000^2764"CompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o SMJobBlessApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/i386 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.dia -c /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/main.o36"19B3F013-903E-4FE1-961A-B675F8C8530E-
+
+CCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400994174.440613
+e400994175.525886
+r1
+xCompileC
+xbuild/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m2905717eafe6b741^68af867fafe6b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m0000000000000000^2892"CompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o SMJobBlessApp/SMJobBlessAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/x86_64 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.d --serialize-diagnostics /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.dia -c /Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessAppController.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessAppController.o36"51152E2F-2ABA-479F-868C-1D25F086F86D-
+
+CCompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400994174.440563
+e400994175.510768
+r1
+xCompileC
+xbuild/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.mf1f2707eafe6b741^4cc1827fafe6b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m0000000000000000^2778"CompileC build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o SMJobBlessApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Downloads/SMJobBless    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wimplicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wconversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wsign-conversion -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-generated-files.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-own-target-headers.hmap -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-all-target-headers.hmap -iquote /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/SMJobBlessApp-project-headers.hmap -I/Users/user/Downloads/SMJobBless/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources/x86_64 -I/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/DerivedSources -F/Users/user/Downloads/SMJobBless/build/Debug -MMD -MT dependencies -MF /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.dia -c /Users/user/Downloads/SMJobBless/SMJobBlessApp/main.m -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/main.o36"73E095D9-7BCB-4BAE-A56D-C11FAF9E599C-
+
+CCompileXIB /Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib
+s400994173.136899
+e400994174.432406
+r1
+xCompileXIB
+x/Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compiling /Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xibbf81257dafe6b741^5bb26e7eafe6b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib0000000000000000^566"CompileXIB SMJobBlessApp/MainMenu.xib    cd /Users/user/Downloads/SMJobBless    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Resources/MainMenu.nib /Users/user/Downloads/SMJobBless/SMJobBlessApp/MainMenu.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"AC2852BC-2FE6-4D28-8B35-119150E7D128-
+
+CCreateUniversalBinary /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp normal "x86_64 i386"
+s400994176.824224
+e400994176.861887
+r1
+xCreateUniversalBinary
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp
+xnormal
+xx86_64 i386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Create universal binary /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp321cd380afe6b741^f9a3dc80afe6b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp000000000080d041^493"CreateUniversalBinary build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp normal "x86_64 i386"    cd /Users/user/Downloads/SMJobBless    lipo -create /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp -output /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp36"21F4A326-9B61-4C6A-80C4-25527DCC3D4A-
+
+CGenerateDSYMFile /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp
+s400994176.868988
+e400994176.903118
+r1
+xGenerateDSYMFile
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Generate /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM2784de80afe6b741^6a32e780afe6b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM000000000080d041^414"GenerateDSYMFile build/Debug/SMJobBlessApp.app.dSYM build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp    cd /Users/user/Downloads/SMJobBless    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/MacOS/SMJobBlessApp -o /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app.dSYM36"22AD94F4-6D98-4D74-B8A4-5646090C8D72-
+
+CLd /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp normal i386
+s400994176.259654
+e400994176.815719
+r1
+xLd
+x/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp088f4280afe6b741^17d3d080afe6b741^---0#0#0#--860"Ld build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp normal i386    cd /Users/user/Downloads/SMJobBless    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/user/Downloads/SMJobBless/build/Debug -F/Users/user/Downloads/SMJobBless/build/Debug -filelist /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp.LinkFileList -mmacosx-version-min=10.6 -fobjc-link-runtime -framework Cocoa -framework Security -framework ServiceManagement -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/i386/SMJobBlessApp36"FA5647DB-1B6B-4AAD-9D6E-FA59B39FF020-
+
+CLd /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp normal x86_64
+s400994176.209629
+e400994176.817694
+r1
+xLd
+x/Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp0cc93580afe6b741^3354d180afe6b741^---0#0#0#--870"Ld build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp normal x86_64    cd /Users/user/Downloads/SMJobBless    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/user/Downloads/SMJobBless/build/Debug -F/Users/user/Downloads/SMJobBless/build/Debug -filelist /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp.LinkFileList -mmacosx-version-min=10.6 -fobjc-link-runtime -framework Cocoa -framework Security -framework ServiceManagement -o /Users/user/Downloads/SMJobBless/build/SMJobBless.build/Debug/SMJobBlessApp.build/Objects-normal/x86_64/SMJobBlessApp36"FCC9DD7A-854A-4691-9252-525598FDE253-
+
+CPBXCp build/Debug/com.apple.bsd.SMJobBlessHelper build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper
+s400994176.911709
+e400994176.914560
+r1
+xPBXCp
+xbuild/Debug/com.apple.bsd.SMJobBlessHelper
+xbuild/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper747be980afe6b741^0420ea80afe6b741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper000000000080d041^465"PBXCp build/Debug/com.apple.bsd.SMJobBlessHelper build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices/com.apple.bsd.SMJobBlessHelper    cd /Users/user/Downloads/SMJobBless    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Downloads/SMJobBless/build/Debug/com.apple.bsd.SMJobBlessHelper /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Library/LaunchServices36"E48BEF30-78E2-4DAB-AED7-898972B60DA4-
+
+CProcessInfoPlistFile /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Info.plist SMJobBlessApp/SMJobBlessApp-Info.plist
+s400994173.119770
+e400994173.123137
+r1
+xProcessInfoPlistFile
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Info.plist
+xSMJobBlessApp/SMJobBlessApp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process SMJobBlessApp/SMJobBlessApp-Info.plist23bb1e7dafe6b741^e8851f7dafe6b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Downloads/SMJobBless/SMJobBlessApp/SMJobBlessApp-Info.plist0000000000000000^434"ProcessInfoPlistFile build/Debug/SMJobBlessApp.app/Contents/Info.plist SMJobBlessApp/SMJobBlessApp-Info.plist    cd /Users/user/Downloads/SMJobBless    builtin-infoPlistUtility SMJobBlessApp/SMJobBlessApp-Info.plist -genpkginfo /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app/Contents/Info.plist36"9E8B72F1-868B-497A-AF3D-0D36587C2779-
+
+CTouch /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+s400994176.922657
+e400994176.929866
+r1
+xTouch
+x/Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Touch /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.appa243ec80afe6b741^700bee80afe6b741^---0#0#0#--161"Touch build/Debug/SMJobBlessApp.app    cd /Users/user/Downloads/SMJobBless    /usr/bin/touch -c /Users/user/Downloads/SMJobBless/build/Debug/SMJobBlessApp.app36"17E60C49-3934-4D41-A838-290F3B47871D-
+

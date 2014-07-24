@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StandardErrorPath</key>
+	<string>/var/log/SMJobBless.log</string>
+	<key>KeepAlive</key>
+	<dict>
+		<key>SuccessfulExit</key>
+		<false/>
+	</dict>
+	<key>Label</key>
+	<string>com.ginger.bsd.SMJobBlessHelper</string>
+	<key>MachServices</key>
+	<dict>
+		<key>com.ginger.bsd.SMJobBlessHelper</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

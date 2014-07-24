@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12E55</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>SMJobBlessApp</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.bsd.SMJobBlessApp</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.4</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>4H127</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>12C37</string>
+	<key>DTSDKName</key>
+	<string>macosx10.8</string>
+	<key>DTXcode</key>
+	<string>0460</string>
+	<key>DTXcodeBuild</key>
+	<string>4H127</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SMPrivilegedExecutables</key>
+	<dict>
+		<key>com.apple.bsd.SMJobBlessHelper</key>
+		<string>anchor apple generic and identifier "com.apple.bsd.SMJobBlessHelper" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = E8P47U2H32)</string>
+	</dict>
+</dict>
+</plist>

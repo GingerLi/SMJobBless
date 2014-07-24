@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F2651C3-6CEC-4498-8D83-E7B43FC49664</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SMJobBless</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1ADDB20-8F56-4762-849C-CAF47379561E</key>
+		<string>https://github.com/GingerLi/SMJobBless.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SMJobBless.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1ADDB20-8F56-4762-849C-CAF47379561E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GingerLi/SMJobBless.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1ADDB20-8F56-4762-849C-CAF47379561E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1ADDB20-8F56-4762-849C-CAF47379561E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SMJobBless</string>
+		</dict>
+	</array>
+</dict>
+</plist>
