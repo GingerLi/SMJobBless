@@ -40,7 +40,20 @@
     
     [[NSRunLoop currentRunLoop] run];
 }
-
+- (BOOL)listener:(NSXPCListener *)listener shouldAcceptNewConnection:(NSXPCConnection *)newConnection
+// Called by our XPC listener when a new connection comes in.  We configure the connection
+// with our protocol and ourselves as the main object.
+{
+    assert(listener == self.listener);
+#pragma unused(listener)
+    assert(newConnection != nil);
+    
+    newConnection.exportedInterface = [NSXPCInterface interfaceWithProtocol:@protocol(HelperProtocol)];
+    newConnection.exportedObject = self;
+    [newConnection resume];
+    
+    return YES;
+}
 -(void)whoAreYouWithReply:(void(^)(NSString * str))reply{
     NSLog(@"I am helper");
     NSLog(@"Hello world! uid = %d, euid = %d, pid = %d\n", (int)getuid(),(int)geteuid(), (int)getpid());
